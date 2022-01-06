@@ -1,5 +1,6 @@
 # NodeJS-Wetter-App
 [English](./README.md)
+
 Dies ist meine erste ExpressJS-Anwendung. Ich entwickelte es, um die Grundlagen der Einrichtung eines NodeJS-Servers mit dem Framework ExpressJS zu erlernen.
 Diese einfache Anwendung nutzt eine externe Wetter-API, um das Wetter am gesuchten Ort abzufragen.
 

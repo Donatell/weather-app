@@ -8,3 +8,5 @@ Process
 1. User enters a place
 2. Look up the coordinates of the place with Mapbox
 3. Retrieve and show weather information from Weatherstack by coordinates
+
+This project has been deployed to Heroku: [Link](https://donat-nodejs-weather-project.herokuapp.com/weather)

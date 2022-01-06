@@ -8,3 +8,5 @@ Prozess
 1. Benutzer gibt einen Ort ein
 2. Suche nach den Koordinaten des Ortes mit Mapbox
 3. Abrufen und Anzeigen von Wetterinformationen von Weatherstack nach Koordinaten
+
+Dieses Projekt wurde auf Heroku bereitgestellt: [Link](https://donat-nodejs-weather-project.herokuapp.com/weather)
